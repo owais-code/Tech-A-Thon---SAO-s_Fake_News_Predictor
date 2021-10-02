@@ -4,9 +4,9 @@ Fake News Predictor model developed by Team SAO, **Shashank, Aakash and Owais** 
 
 **Repository Description:-
 
-**1. SAO_Fake_News_Predictor.ipynb => Fake news predictor Jupyter Notebook format
-**2. train.zip => Dataset Used (Zipped, ideally unzip using 7-zip)
-**3. train.html => Pandas profiled complete DataSet Description
+**1. SAO_Fake_News_Predictor.ipynb => Fake news predictor Jupyter Notebook format**
+**2. train.zip => Dataset Used (Zipped, ideally unzip using 7-zip)**
+**3. train.html => Pandas profiled complete DataSet Description**
 
 **Predictor
 Model used: Logistic Regression
