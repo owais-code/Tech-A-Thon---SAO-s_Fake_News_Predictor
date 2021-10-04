@@ -38,9 +38,9 @@ Here, P = probability.
 6.   Port Stemmer
 
                                                  *Team Description*
-                                            1. Md. Owais Ashraf 
-                                            2. Aakash Bhardwaj
-                                            3. Shashank Shekhar
+                                            1. Md. Owais Ashraf  https://github.com/owais-code
+                                            2. Aakash Bhardwaj  https://github.com/Aakash-Bhardwaj
+                                            3. Shashank Shekhar  https://github.com/CODEatlasind
                                                                    
 
 
